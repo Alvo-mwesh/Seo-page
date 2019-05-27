@@ -23,5 +23,9 @@ h1{
 
 .nav-link{
    text-decoration: none;
-   
+
+}
+
+ul li{
+   display: inline;
 }
