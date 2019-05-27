@@ -21,11 +21,26 @@ h1{
 
 }
 
+.logo{
+   float: left;
+   margin-left: 40px;
+}
+
 .nav-link{
+   margin-right: 40px;
    text-decoration: none;
+   padding-top: 15px;
+   float: right;
 
 }
 
 ul li{
    display: inline;
+    padding-left: 20px;
+    margin-top: 15px;
+}
+
+ul li a{
+   text-decoration: none;
+   color: #ffffff;
 }
